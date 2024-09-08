@@ -32,19 +32,23 @@ Include your code here
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/user-attachments/assets/30d6325d-8277-4588-af2e-c66ee52ddf56)
+
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/user-attachments/assets/e9a97613-3cb9-478e-82a6-b4ed7e030b37)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/user-attachments/assets/5bafc487-6577-4397-906b-6a8a4a72df75)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![image](https://github.com/user-attachments/assets/9238ceb1-072d-4b0c-9274-254b1565f8e0)
+![image](https://github.com/user-attachments/assets/3d6adda6-271a-4ed9-8b33-23e8c6c15e83)
 
 ## RESULT
 Include your result here.

@@ -86,8 +86,6 @@ X_train_scaled.max()
 
 y_train[0]
 
-y_train[0]
-
 y_train_onehot = utils.to_categorical(y_train,10)
 y_test_onehot = utils.to_categorical(y_test,10)
 
